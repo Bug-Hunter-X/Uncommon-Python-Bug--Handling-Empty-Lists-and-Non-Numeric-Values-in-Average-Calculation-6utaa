@@ -1,0 +1,1 @@
+This repository contains examples of a common Python bug involving average calculation and its solution. The bug occurs when the input list is empty or contains non-numeric data, leading to exceptions. The solution demonstrates robust error handling using type checking and conditional statements.
